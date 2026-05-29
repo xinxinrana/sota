@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOTA"
+  short_description: "Sort Out, Think Ahead: reusable AI workflows for clearer work."
+  default_prompt: "Use $sota to sort out this messy goal, think ahead about risks and options, and turn it into concrete next actions."
