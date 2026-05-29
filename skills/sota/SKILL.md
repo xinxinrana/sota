@@ -1,5 +1,5 @@
 ---
-name: sota
+name: SOTA
 description: "SOTA, Sort Out, Think Ahead: an AI productivity method for using AI or Codex beyond coding to clarify messy goals, decompose ambiguous work, design workflows, generate prompts, compare options, critique plans, turn ideas into action steps, manage attention, and create reusable personal or team operating methods. Use when the user asks how to use AI better, wants help thinking through any non-code task, needs a reusable method, wants a coach/mentor style workflow, or asks to transform a vague objective into concrete steps, prompts, checklists, decisions, documents, plans, or retrospectives."
 ---
 
